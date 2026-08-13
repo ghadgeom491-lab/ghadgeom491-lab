@@ -33,44 +33,26 @@
 
 ## 🛠️ Languages & Technologies
 
-### 💻 Programming & Development
+### Programming & Development
+![Python](https://skillicons.dev/icons?i=python)
+![R](https://skillicons.dev/icons?i=r)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="55" alt="Python" title="Python">
-  <img src="https://cdn.simpleicons.org/r/276DC3" width="55" alt="R" title="R">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="55" alt="Git" title="Git">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" alt="GitHub" title="GitHub">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" alt="Visual Studio Code" title="Visual Studio Code">
-</p>
+### Data Science & Analytics
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![Numpy](https://skillicons.dev/icons?i=numpy)
+![Matplotlib](https://skillicons.dev/icons?i=matplotlib)
 
-### 📊 Data Science & Analytics
+### Database & BI
+![Oracle](https://skillicons.dev/icons?i=oracle)
+![Tableau](https://skillicons.dev/icons?i=tableau)
+![Excel](https://skillicons.dev/icons?i=excel)
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="55" alt="Pandas" title="Pandas">
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="55" alt="NumPy" title="NumPy">
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" alt="Matplotlib" title="Matplotlib">
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" alt="Jupyter Notebook" title="Jupyter Notebook">
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" alt="Scikit-learn" title="Scikit-learn">
-</p>
-
-### 🗄️ Database & Business Intelligence
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" alt="MySQL" title="MySQL">
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="55" alt="Oracle" title="Oracle">
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="55" alt="Tableau" title="Tableau">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" alt="Power BI" title="Power BI">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55" alt="Microsoft Excel" title="Microsoft Excel">
-</p>
-
-### 🤖 Machine Learning & AI
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="55" alt="PyTorch" title="PyTorch">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="55" alt="TensorFlow" title="TensorFlow">
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55" alt="OpenCV" title="OpenCV">
-</p>
-
+### ML & AI
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
 ---
 
 ## 🧠 Currently Exploring
