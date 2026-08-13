@@ -122,17 +122,6 @@ Building a portfolio around:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ghadgeom491-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadgeom491-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-> 📌 GitHub language statistics represent the code in my public repositories and are not a measure of skill level.
-
----
-
 ## 📈 My Data Science Roadmap
 
 <p align="center">
@@ -182,11 +171,15 @@ Every project is an opportunity to learn something new, make mistakes, and impro
 <p align="center">
 
 <a href="https://github.com/ghadgeom491-lab">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" alt="GitHub" title="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/om-ghadge-16a99b378">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:ghadgeom491@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </p>
