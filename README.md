@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/ghadgeom491-lab">
-    <img src="https://img.shields.io/github/followers/ghadgeom491-lab?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub">
   </a>
-  <a href="https://github.com/ghadgeom491-lab?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ghadgeom491-lab?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/om-ghadge-16a99b378">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn">
   </a>
 </p>
 
@@ -17,48 +17,57 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Data Science Student** focused on building practical skills through projects.
+🎓 Data Science student passionate about **Python, Data Analytics, Visualization and Machine Learning**.
 
-🐍 Strong focus on **Python and Data Analytics**
+🐍 I enjoy building practical projects that help me understand technology through real implementation.
 
-📊 Interested in **Data Visualization, Business Intelligence and Machine Learning**
+📊 Interested in turning raw data into **insights, visualizations and useful solutions**.
 
-🤖 Currently exploring **PyTorch and Deep Learning**
+🤖 Currently exploring **Machine Learning, PyTorch and Deep Learning**.
 
-🚀 My goal is to transform data into useful insights and intelligent solutions.
+🚀 My long-term goal is to build real-world **Data Science and AI solutions**.
 
-💡 I learn by **building → experimenting → breaking → improving**.
+> **Learn → Build → Experiment → Improve**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Technologies
 
-### 💻 Languages & Core
+### 💻 Programming & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,git,github" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="55" alt="Python" title="Python">
+  <img src="https://cdn.simpleicons.org/r/276DC3" width="55" alt="R" title="R">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="55" alt="Git" title="Git">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" alt="GitHub" title="GitHub">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" alt="VS Code" title="Visual Studio Code">
 </p>
 
 ### 📊 Data Science & Analytics
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="55" alt="Pandas" title="Pandas">
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="55" alt="NumPy" title="NumPy">
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" alt="Matplotlib" title="Matplotlib">
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" alt="Jupyter" title="Jupyter Notebook">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" alt="Scikit-learn" title="Scikit-learn">
 </p>
 
-**Python ecosystem:** Pandas • NumPy • Matplotlib • Jupyter Notebook
-
-### 📈 Data Visualization & BI
+### 🗄️ Database & BI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tableau" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" alt="SQL / MySQL" title="SQL / MySQL">
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="55" alt="Tableau" title="Tableau">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" alt="Power BI" title="Power BI">
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55" alt="Microsoft Excel" title="Microsoft Excel">
 </p>
 
-**Also working with:** Power BI • Excel • Data Visualization
-
-### 🧰 Development Tools
+### 🤖 Machine Learning & AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="55" alt="PyTorch" title="PyTorch">
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="55" alt="TensorFlow" title="TensorFlow">
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55" alt="OpenCV" title="OpenCV">
 </p>
 
 ---
@@ -66,12 +75,14 @@
 ## 🧠 Currently Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow" />
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="60" alt="PyTorch" title="PyTorch">
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="60" alt="TensorFlow" title="TensorFlow">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="60" alt="Scikit-learn" title="Scikit-learn">
 </p>
 
 **Machine Learning → Deep Learning → AI**
 
-I'm currently expanding my knowledge in:
+I'm currently going deeper into:
 
 * 🤖 Machine Learning
 * 🔥 PyTorch
@@ -87,23 +98,23 @@ I'm currently expanding my knowledge in:
 
 ### 🧮 Calculator Project
 
-A Python calculator implementing arithmetic operations using a stack-based approach and BODMAS rules.
+A Python calculator implementing arithmetic operations using a **stack-based approach and BODMAS rules**.
 
-**Tech:** Python • Data Structures
+**Technologies:** Python • Data Structures
 
 ---
 
 ### 📊 Exploratory Data Analysis
 
-An exploratory data analysis project focused on understanding datasets, identifying patterns, and creating meaningful visualizations.
+An exploratory data analysis project focused on understanding datasets, identifying patterns and generating meaningful visualizations.
 
-**Tech:** Python • Pandas • NumPy • Matplotlib • Jupyter
+**Technologies:** Python • Pandas • NumPy • Matplotlib • Jupyter
 
 ---
 
 ### 🔨 More Projects Coming
 
-I'm continuously building projects to strengthen my skills in:
+Building a portfolio around:
 
 **Python → Data Analytics → SQL → Visualization → Machine Learning → AI**
 
@@ -112,65 +123,72 @@ I'm continuously building projects to strengthen my skills in:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ghadgeom491-lab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadgeom491-lab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ghadgeom491-lab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadgeom491-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+> 📌 GitHub language statistics represent the code in my public repositories and are not a measure of skill level.
+
+---
+
+## 📈 My Data Science Roadmap
+
+<p align="center">
+
+**🐍 Python**
+  →  
+**📊 Data Analysis**
+  →  
+**📈 Visualization**
+  →  
+**🗄️ SQL**
+  →  
+**🤖 Machine Learning**
+  →  
+**🧠 Deep Learning**
+  →  
+**🚀 AI**
+
 </p>
 
 ---
 
-## 📈 My Development Journey
+## 🎯 Goals
 
-```text
-Python
-   ↓
-Data Analysis
-   ↓
-Data Visualization
-   ↓
-SQL & Databases
-   ↓
-Machine Learning
-   ↓
-Deep Learning
-   ↓
-AI / Data Science
-```
+* 🚀 Build meaningful real-world projects
+* 🐍 Strengthen Python and programming fundamentals
+* 📊 Develop strong Data Analytics skills
+* 🗄️ Improve SQL and database knowledge
+* 📈 Build professional dashboards
+* 🤖 Develop Machine Learning projects
+* 🔥 Learn PyTorch and Deep Learning
+* 🌐 Explore open-source contribution
+* 💼 Prepare for a Data Science / Data Analyst career
 
 ---
 
-## 🎯 2026–27 Goals
-
-* [ ] Build 5+ meaningful Data Science projects
-* [ ] Strengthen Python & SQL
-* [ ] Build real-world EDA projects
-* [ ] Master data visualization
-* [ ] Build Machine Learning projects
-* [ ] Learn PyTorch & Deep Learning
-* [ ] Build an end-to-end Data Science project
-* [ ] Contribute to open-source projects
-* [ ] Prepare for a Data Science / Data Analyst role
-
----
-
-## 📚 What I Believe
+## 📚 My Philosophy
 
 > **Don't just learn technology. Build something with it.**
 
-Every project I build is an opportunity to understand something better.
+Every project is an opportunity to learn something new, make mistakes, and improve.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/ghadgeom491-lab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="https://github.com/ghadgeom491-lab">
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" alt="GitHub" title="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/om-ghadge-16a99b378">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn" title="LinkedIn">
+</a>
+
 </p>
 
 <p align="center">
-  ⭐ If you find something interesting in my repositories, feel free to explore!
+  ⭐ Thanks for visiting my profile!
 </p>
