@@ -45,14 +45,9 @@
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,jupyter,sklearn" height="55" alt="Pandas, NumPy, Matplotlib, Jupyter, Scikit-learn" />
 </p>
 
-### 🗄️ Database & Business Intelligence
+🗄️ Database & BI
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="55" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="55" alt="Tableau" title="Tableau" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="55" alt="Power BI" title="Power BI" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="55" alt="Microsoft Excel" title="Microsoft Excel" />
-</p>
+<p align="left"> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" alt="SQL / MySQL" title="SQL / MySQL"> <img src="https://cdn.simpleicons.org/tableau/E97627" width="55" alt="Tableau" title="Tableau"> <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" alt="Power BI" title="Power BI"> <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55" alt="Microsoft Excel" title="Microsoft Excel"> </p>
 
 ### 🤖 Machine Learning & AI
 
