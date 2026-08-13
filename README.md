@@ -36,41 +36,30 @@
 ### 💻 Programming & Development
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="55" alt="Python" title="Python">
-  <img src="https://cdn.simpleicons.org/r/276DC3" width="55" alt="R" title="R">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="55" alt="Git" title="Git">
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="55" alt="GitHub" title="GitHub">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" alt="VS Code" title="Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode" height="55" alt="Python, R, Git, GitHub, VS Code" />
 </p>
 
 ### 📊 Data Science & Analytics
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="55" alt="Pandas" title="Pandas">
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="55" alt="NumPy" title="NumPy">
-  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" alt="Matplotlib" title="Matplotlib">
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="55" alt="Jupyter" title="Jupyter Notebook">
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" alt="Scikit-learn" title="Scikit-learn">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,jupyter,sklearn" height="55" alt="Pandas, NumPy, Matplotlib, Jupyter, Scikit-learn" />
 </p>
 
-### 🗄️ Database & BI
+### 🗄️ Database & Business Intelligence
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="55" alt="SQL / MySQL" title="SQL / MySQL">
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="55" alt="Tableau" title="Tableau">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55" alt="Power BI" title="Power BI">
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55" alt="Microsoft Excel" title="Microsoft Excel">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="55" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.simpleicons.org/tableau/E97627" height="55" alt="Tableau" title="Tableau" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="55" alt="Power BI" title="Power BI" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="55" alt="Microsoft Excel" title="Microsoft Excel" />
 </p>
 
 ### 🤖 Machine Learning & AI
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="55" alt="PyTorch" title="PyTorch">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="55" alt="TensorFlow" title="TensorFlow">
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55" alt="OpenCV" title="OpenCV">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="55" alt="PyTorch, TensorFlow, OpenCV" />
 </p>
 
----
 
 ## 🧠 Currently Exploring
 
